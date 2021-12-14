@@ -14,9 +14,10 @@ The dataset used is from Kaggle [COVID-19 radiography database](https://www.kagg
 ### Model architecture:
 The model used is:
 ![graph.svg](graph.svg)
+![legend.svg](legend.svg)
 
 
-### Results
+### Results:
 The learning curves are:
 ![results.png](results.png)
 
