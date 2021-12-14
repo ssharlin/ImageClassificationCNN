@@ -1,5 +1,5 @@
 # Covid-X-ray-Image-Classification-using-CNN
-
+### ENCH 470 Final Project 
 Convolutional Neural Network (CNN) model for COVID-19 detection based on X-ray image classification. 
 
 CNN model is implemented in Keras, which is an open-source software that acts as an interface for the TensorFlow library in python for deep-learning.
