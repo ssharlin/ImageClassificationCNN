@@ -8,8 +8,7 @@ The main code for building the model and generate the dataset is in the model_fu
 The model_visuals.py have the custom settings for the plots used in the Jupyter notebook.
 
 ### Dataset:
-The dataset used is from Kaggle.
-[COVID-19 radiography database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
+The dataset used is from Kaggle [COVID-19 radiography database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database).
 
 
 ### Model architecture:
