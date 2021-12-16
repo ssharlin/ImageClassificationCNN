@@ -13,8 +13,8 @@ The dataset used is from Kaggle [COVID-19 radiography database](https://www.kagg
 
 ### Model architecture:
 The model used is:
-![graph.svg](graph.svg)
-![legend.svg](legend.svg)
+![nn_mode.svg](nn_model.svg)
+![model_legend.svg](model_legend.svg)
 
 
 ### Results:
