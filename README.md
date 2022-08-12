@@ -1,4 +1,4 @@
-# Covid-X-ray-Image-Classification-using-CNN
+# Covid X-ray image classification using CNN
 ### ENCH 470 Final Project 
 Convolutional Neural Network (CNN) model for COVID-19 detection based on X-ray image classification. 
 
